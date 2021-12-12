@@ -1,0 +1,6 @@
+module.exports = {
+    name: 'evento',
+    async execute(client) {
+        //codigo
+    }
+}
