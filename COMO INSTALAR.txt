@@ -1,0 +1,5 @@
+1 - Descarguen el código
+2 - Pongan su token en src/config.json
+3 - con la consola escriban "cd ", con ese espacio y luego arrastren la carpeta de su bot a la consola, les quedará.
+"cd Carpeta/bot" 
+4 - npm i y esperen a que instale todo
